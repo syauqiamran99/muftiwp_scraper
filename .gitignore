@@ -1,0 +1,10 @@
+# Virtual environment
+.venv/
+__pycache__/
+
+# Output and debug files
+*.xlsx
+*.html
+
+# Temporary folders
+New folder*/
